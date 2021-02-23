@@ -1,0 +1,12 @@
+---
+# Color Code: &
+# Player Name: {name}
+
+Prefix: "&aRS &7> "
+
+Successfully-On-Message: "&7Successfully turned reverse!"
+Successfully-Off-Message: "&7You are back to the old skin successfully!"
+Args-Not-Found-Message: "&7Args not found!"
+No-Permission: "&7You haven't necessary permission!"
+On-First-Message: "&7On first, please!"
+...
